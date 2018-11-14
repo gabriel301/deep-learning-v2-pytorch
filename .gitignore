@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+
+intro-to-pytorch/__pycache__/
+
+intro-to-pytorch/MNIST_data/
