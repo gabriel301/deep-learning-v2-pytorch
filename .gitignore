@@ -3,3 +3,7 @@
 intro-to-pytorch/__pycache__/
 
 intro-to-pytorch/MNIST_data/
+
+intro-to-pytorch/Cat_Dog_data/
+
+intro-to-pytorch/F_MNIST_data/
