@@ -11,3 +11,5 @@ intro-to-pytorch/F_MNIST_data/
 intro-to-pytorch/checkpoint_dog_cat\.pth
 
 convolutional-neural-networks/mnist-mlp/data/
+
+convolutional-neural-networks/cifar-cnn/data/
